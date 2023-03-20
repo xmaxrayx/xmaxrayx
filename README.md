@@ -73,3 +73,9 @@ C:\> _
 
 ------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmaxrayx&theme=tokyonight)
+------------
+You have reached the edn!!! ＼（＠￣∇￣＠）／
+ 
+ ヽ(*≧ω≦)ﾉ ヽ(*⌒∇⌒*)ﾉ  ヽ(＾Д＾)ﾉ    ヾ(＠^∇^＠)ノ ヽ(;^o^ヽ)
+
+@xMaxrayx
