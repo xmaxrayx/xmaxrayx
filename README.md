@@ -4,7 +4,7 @@ Welcome to the HLD0OS 7.77 the new evlotion of opreating system
 (RIP://Demon.xmaxrayx.HL)
 
 FreeLove version 0.000
-Freesuffe version 999999.9
+Freesuffer version 999999.9
 HLD0OS version 7.77
 HLD0OS Kernel 2066 (build 2066 7.77) [compiled oct 16 2077]
 
@@ -22,9 +22,19 @@ C:\>dir
             Valume in drive HL is  HLD0OS666
             Valume Serial Number is 6666-11E6
             Dircectory of C:\
-HLDOOS                <DIR>     01-06-2078    3:00p 
-Automoney   COM        1.66     03-06-2078    3:12p
-Freelove    EXE        0.01     09-09-2078    9:00A
+            
+HLDOOS                          <DIR>     09-09-2078    03:00p 
+TRUELOVE                        <DIR>     09-09-2078    08:10p
+INNOCENTGAMMES                  <DIR>     10-16-2077    05:00p
+AUTOMONEY             COM        1.66     03-06-2078    03:12p
+FREELOVE              EXE        0.01     09-09-2078    09:00a
+FREESUFFER            BAT      66.696     10-16-2077    01:00p   
+BEFOREGOODBYE         TXT       0.100     10-16-2077    12:00a
+HLDO0SCONFIG          SYS         774     10-15-2078    03:55a
+KERNAL                SYS      46.333     10-16-2077    09:45p
+
+
+C:\> _
 
 ```
 
