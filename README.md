@@ -7,9 +7,9 @@
 #### 🧰 Languages and Tools:
 
 
-Bash scripts, Powershell scripts, AHK scripts.
+`Bash scripts`, `Powershell scripts`, `AHK`.
 
-C# ,~~Visual basic~~
+`C#` ,~~Visual basic~~
 
 ------------
 
