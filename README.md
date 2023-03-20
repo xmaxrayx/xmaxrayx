@@ -33,7 +33,7 @@ BEFOREGOODBYE         TXT       0.100     10-16-2077    12:00a
 HLDO0SCONFIG          SYS         774     10-15-2078    03:55a
 KERNAL                SYS      46.333     10-16-2077    09:45p
 
-######  HELLO :3 DON'T WORRY MY FILLES ARE 100% SAFE AND WONT DESTROY YOUR PC!!! :3
+
 
 C:\>shutdown
                 ->
