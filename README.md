@@ -18,6 +18,8 @@ C# ,~~Visual basic~~
 
 # My projects ##
 
-1. [`AHK_Module`](https://github.com/xmaxrayx/AHK_Module)  A place where I post scripts modules that you can copy-paste into your script, also there .bat and .exe
-     
-2. [`Drawing_scripts`](https://github.com/xmaxrayx/Drawing_scripts) scripts and automation for drawing apps
+1. [`AHK_Module`](https://github.com/xmaxrayx/AHK_Module)  A place where I post scripts modules that you can copy-paste into your script, also there `.bat`  `.exe`  `.ahk`
+2. [`Drawing_scripts`](https://github.com/xmaxrayx/Drawing_scripts) scripts and automation for drawing apps `.ahk`
+
+
+3.
