@@ -21,7 +21,7 @@ C:\>dir
         ->
             Valume in drive HL is  HLD0OS666
             Valume Serial Number is 6666-11E6
-            Dircectory of C:\xx
+            Dircectory of C:\
 HLDOOS                <DIR>     01-06-2078    3:00p 
 Automoney   COM        1.66     03-06-2078    3:12p
 Freelove    EXE        0.01     09-09-2078    9:00A
