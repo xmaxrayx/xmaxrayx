@@ -1,4 +1,4 @@
-
+######  HELLO :3 DON'T WORRY MY FILLES ARE 100% SAFE AND WONT DESTROY YOUR PC!!! :3
 ```
 Welcome to the HLD0OS 7.77 the new evlotion of opreating system
 (RIP://Demon.xmaxrayx.HL)
@@ -58,7 +58,7 @@ C:\> _
 ------------
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmaxrayx&theme=tokyonight)
+
 
 ```
 𐌌𐌙 𐌐𐌓ꝊᏵ𐌄𐌂𐌕, 
@@ -67,3 +67,7 @@ C:\> _
 1. [`AHK_Module`](https://github.com/xmaxrayx/AHK_Module)  A place where I post scripts modules that you can copy-paste into your script, also there `.bat`  `.exe`  `.ahk`
 2. [`Drawing_scripts`](https://github.com/xmaxrayx/Drawing_scripts) scripts and automation for drawing apps `.ahk`
 3. [`Xpen_Script`](https://github.com/xmaxrayx/Xpen_script) Fix and workaround for the driver.
+
+
+------------
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmaxrayx&theme=tokyonight)
