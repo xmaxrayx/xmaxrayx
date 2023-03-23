@@ -1,8 +1,11 @@
+ HELLO :3 DON'T WORRY MY FILLES ARE 100% SAFE AND WONT DESTROY YOUR PC!!! :3
 
 
-######  HELLO :3 DON'T WORRY MY FILLES ARE 100% SAFE AND WONT DESTROY YOUR PC!!! :3
+ `Other links` -> https://beacons.ai/xmaxrayx/home
 
-HLDO0S OS
+------------
+
+`HLDO0S OS`: Ultimate edition
 ```
 Welcome to the HLD0OS 7.77 the new evlotion of opreating system
 (RIP://Demon.xmaxrayx.HL)
@@ -76,6 +79,6 @@ C:\> _
 ------------
 You have reached the edn!!! ＼（＠￣∇￣＠）／
  
- ヽ(*≧ω≦)ﾉ ヽ(*⌒∇⌒*)ﾉ  ヽ(＾Д＾)ﾉ    ヾ(＠^∇^＠)ノ ヽ(;^o^ヽ)
+ ヽ(*≧ω≦)ﾉ --------->❤️<---------- ヽ(;^o^ヽ)
 
 @xMaxrayx  Via https://beacons.ai/xmaxrayx/
