@@ -76,6 +76,9 @@ C:\> _
 
 ------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmaxrayx&theme=tokyonight)
+ ...........  <img src="https://github-readme-stats.vercel.app/api?username=xmaxrayx&show_icons=true&theme=gotham" alt="xmaxrayx" />
+ 
+ 
 ------------
 You have reached the edn!!! ＼（＠￣∇￣＠）／
  
