@@ -1,6 +1,11 @@
 
 <img title="a title" alt="Alt text" src="https://codeium.com/profile/xmaxrayx/card.png">
 https://codeium.com/profile/xmaxrayx
+<br>
+<br>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=https://wakatime.com/@xMaxrayx)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <br>
