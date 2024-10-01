@@ -2,7 +2,7 @@
 [![Max codium](https://codeium.com/profile/xmaxrayx/card.png)](https://codeium.com/profile/xmaxrayx)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=https://wakatime.com/@xMaxrayx)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@xMaxrayx)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
