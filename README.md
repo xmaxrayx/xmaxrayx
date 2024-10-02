@@ -1,12 +1,22 @@
+|      | [<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xMaxrayx&theme=radical&layout=compact">](https://wakatime.com/@xMaxrayx) |                                                              |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|      | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmaxrayx&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmaxrayx&layout=donut-vertical&langs_count=20&theme=radical  )](https://github.com/anuraghazra/github-readme-stats) |
+|      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmaxrayx&layout=donut-vertical&langs_count=20&theme=radical  )](https://github.com/anuraghazra/github-readme-stats) |                                                              |
+|      |                                                              |                                                              |
 
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xMaxrayx&theme=radical&layout=compact">](https://wakatime.com/@xMaxrayx)
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmaxrayx&show_icons=true&theme=radical)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmaxrayx&layout=donut-vertical&langs_count=20&theme=radical  )](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
 
  [![Max codium](https://codeium.com/profile/xmaxrayx/card.png)](https://codeium.com/profile/xmaxrayx)
 
@@ -113,11 +123,11 @@ C:\> _
 ------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmaxrayx&theme=tokyonight)
  ...........  <img src="https://github-readme-stats.vercel.app/api?username=xmaxrayx&show_icons=true&theme=gotham" alt="xmaxrayx" />
- 
- 
+
+
 ------------
 You have reached the edn!!! ＼（＠￣∇￣＠）／
- 
+
  ヽ(*≧ω≦)ﾉ --------->❤️<---------- ヽ(;^o^ヽ)
 
 @xMaxrayx  Via https://beacons.ai/xmaxrayx/
