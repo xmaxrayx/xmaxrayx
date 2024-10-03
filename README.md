@@ -1,7 +1,9 @@
-## wakatime
+## Wakatime
+(Added 27/3/2024)
+
  [<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xMaxrayx&theme=radical&layout=compact">](https://wakatime.com/@xMaxrayx) 
 
-## github
+## Github
 
 <br>
 
@@ -11,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmaxrayx&layout=donut-vertical&langs_count=20&theme=radical  )](https://github.com/anuraghazra/github-readme-stats)
 
-## other
+## Other
 
 <br>
 
