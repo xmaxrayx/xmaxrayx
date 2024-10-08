@@ -6,6 +6,15 @@
 
 
 <!--START_SECTION:waka-->
+
+```txt
+XAML         8 hrs 11 mins   ████████████▓░░░░░░░░░░░░   50.21 %
+AutoHotkey   3 hrs 55 mins   ██████░░░░░░░░░░░░░░░░░░░   24.06 %
+Markdown     1 hr 50 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
+Binary       1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+JSON         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+```
+
 <!--END_SECTION:waka-->
 
 
