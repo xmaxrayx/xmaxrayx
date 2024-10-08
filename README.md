@@ -4,6 +4,20 @@
  [<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xMaxrayx&theme=radical&layout=compact">](https://wakatime.com/@xMaxrayx) 
 
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
+
+
+
+
+
+
+
+
 <br>
 
 > **Note**
