@@ -1,12 +1,23 @@
 <img
   src="https://wakatime.com/share/@xMaxrayx/2db3823e-253b-4061-97ac-49a6f1050313.svg"
-  alt="xmaxrayx wakatime status"
+  alt="xmaxrayx wakatime language status"
+  width="600"
+/>
+</br>
+<img
+  src="https://wakatime.com/share/@xMaxrayx/b377e1ac-ba39-4964-a129-1830bc888b9e.svg"
+  alt="xmaxrayx wakatime DIE status"
+  width="600"
 />
 
 
 
 
-
+<img
+  src="https://wakatime.com/share/@xMaxrayx/5a830baa-7a13-4edc-b7c0-98ada3404d1f.svg"
+  alt="xmaxrayx wakatime work time status"
+  height ="130"
+/>
 
 
 
