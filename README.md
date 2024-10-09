@@ -19,6 +19,17 @@ JSON         39 mins         █░░░░░░░░░░░░░░░░
 
 
 
+<img
+  src="https://github.com/xmaxrayx/xmaxrayx/blob/main/images/stat.svg"
+  alt="xmaxrayx wakatime status"
+/>
+
+
+
+
+
+
+
 
 
 
