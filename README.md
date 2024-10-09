@@ -1,3 +1,18 @@
+<img
+  src="https://wakatime.com/share/@xMaxrayx/2db3823e-253b-4061-97ac-49a6f1050313.svg"
+  alt="xmaxrayx wakatime status"
+/>
+
+
+
+
+
+
+
+
+
+
+
 ## Wakatime
 (Added 27/3/2024)
 
