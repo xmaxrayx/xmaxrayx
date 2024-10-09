@@ -1,4 +1,4 @@
-name: WakaTime status update
+name: WakaTime graph
 
 on:
   # for manual workflow trigger
