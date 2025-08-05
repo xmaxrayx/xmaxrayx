@@ -4,6 +4,10 @@ ifdef::env-github[]
 :important-caption: :heavy_exclamation_mark:
 :caution-caption: :fire:
 :warning-caption: :warning:
+:imagesdir: https://gist.githubusercontent.com/path/to/gist/revision/dir/with/all/images
+endif::[]
+\ifndef::env-github[] <2>
+:imagesdir: ./
 endif::[]
 
 [NOTE]
@@ -21,3 +25,7 @@ IMPORTANT: Asciidoctor is awesome, don't forget!
 CAUTION: Don't forget to add the `...-caption` document attributes in the header of the document on GitHub.
 
 WARNING: You have no reason not to use Asciidoctor.
+
+Hello image:https://avatars3.githubusercontent.com/u/3137042?v=3&s=100[] Hello
+
+sss
