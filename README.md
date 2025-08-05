@@ -1,3 +1,6 @@
+[![wakatime](https://wakatime.com/badge/user/eff25b65-9015-4b5a-9bd6-96279cc396ce.svg)](https://wakatime.com/@eff25b65-9015-4b5a-9bd6-96279cc396ce)
+
+
 <img
   src="https://wakatime.com/share/@xMaxrayx/2db3823e-253b-4061-97ac-49a6f1050313.svg"
   alt="xmaxrayx wakatime language status"
