@@ -19,8 +19,10 @@
   height ="130"
 />
 
+<img src= "https://wakatime.com/share/@xMaxrayx/d032a993-3e8f-467a-8d9b-367f1690ef97.png"></img>
 
 
+<img src="https://wakatime.com/share/@xMaxrayx/344aa1ac-8c34-45a8-9b6c-9e39df1e6f88.svg"></img>
 
 
 
