@@ -30,21 +30,6 @@
  [<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xMaxrayx&theme=radical&layout=compact">](https://wakatime.com/@xMaxrayx) 
 
 
-
-<!--START_SECTION:waka-->
-
-```txt
-XAML         9 hrs 57 mins   ██████████████████░░░░░░░   72.63 %
-Markdown     1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
-Binary       1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-AutoHotkey   47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-C#           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-```
-
-<!--END_SECTION:waka-->
-
-
-
 <img
   src="https://github.com/xmaxrayx/xmaxrayx/blob/main/images/stat.svg"
   alt="xmaxrayx wakatime status"
@@ -65,25 +50,10 @@ C#           9 mins          ▒░░░░░░░░░░░░░░░░
 
 
 <br>
-
-> **Note**
->  @unbreakable-ray
->  
->  I moved here 
->  
->   https://github.com/Unbreakable-ray
->   
->   
->   
->   
->---------------------------------------------------------------------------------------------
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
- HELLO :3 DON'T WORRY MY FILLES ARE 100% SAFE AND WONT DESTROY YOUR PC!!! :3
 
 
  `Other links` -> https://beacons.ai/xmaxrayx/home
@@ -139,23 +109,13 @@ C:\> _
 
 
 
-#### 🧰 Languages and Tools:
-
-
-`Bash scripts` `Powershell scripts` `AHK` `C#` , ~~Visual basic~~
-
-------------
-
-
 
 
 ```
 𐌌𐌙 𐌐𐌓ꝊᏵ𐌄𐌂𐌕, 
 ```
 1. [`Extrude + + blender addon`](https://github.com/xmaxrayx/Blender3D_Extrude_Plus_Plus_addon) Extrude commands in Pia menue as addon for blenders
-1. [`AHK_Module`](https://github.com/xmaxrayx/AHK_Module)  A place where I post scripts modules that you can copy-paste into your script, also there `.bat`  `.exe`  `.ahk`
-2. [`Drawing_scripts`](https://github.com/xmaxrayx/Drawing_scripts) scripts and automation for drawing apps `.ahk`
-3. [`Xpen_Script`](https://github.com/xmaxrayx/Xpen_script) Fix and workaround for the driver.
+
 
 
 
@@ -170,26 +130,9 @@ C:\> _
 
 <br>
 
-## Github
-
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmaxrayx&show_icons=true&theme=radical)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmaxrayx&layout=donut-vertical&langs_count=20&theme=radical  )](https://github.com/anuraghazra/github-readme-stats)
-
-## Other
-
-<br>
-
- [![Max codium](https://codeium.com/profile/xmaxrayx/card.png)](https://codeium.com/profile/xmaxrayx)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmaxrayx&theme=tokyonight)
- ...........  <img src="https://github-readme-stats.vercel.app/api?username=xmaxrayx&show_icons=true&theme=gotham" alt="xmaxrayx" />
 
 
 ------------
