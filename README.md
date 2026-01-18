@@ -1,6 +1,7 @@
-[![wakatime](https://wakatime.com/badge/user/eff25b65-9015-4b5a-9bd6-96279cc396ce.svg)](https://wakatime.com/@eff25b65-9015-4b5a-9bd6-96279cc396ce)
+I don't use Github [![wakatime](https://wakatime.com/badge/user/eff25b65-9015-4b5a-9bd6-96279cc396ce.svg)](https://wakatime.com/@eff25b65-9015-4b5a-9bd6-96279cc396ce)
 
-<img src="https://wakatime.com/share/@xMaxrayx/2db3823e-253b-4061-97ac-49a6f1050313.svg" width="50%"> <img src="https://wakatime.com/share/@xMaxrayx/b377e1ac-ba39-4964-a129-1830bc888b9e.svg" width="47%">
+
+<!-- <img src="https://wakatime.com/share/@xMaxrayx/2db3823e-253b-4061-97ac-49a6f1050313.svg" width="50%"> <img src="https://wakatime.com/share/@xMaxrayx/b377e1ac-ba39-4964-a129-1830bc888b9e.svg" width="47%"> -->
 <!-- 
 <img
   src="https://wakatime.com/share/@xMaxrayx/2db3823e-253b-4061-97ac-49a6f1050313.svg"
@@ -13,8 +14,12 @@
   alt="xmaxrayx wakatime DIE status"
   width="600"
 /> -->
+𐌌𐌙 𐌐𐌓ꝊᏵ𐌄𐌂𐌕, 
 
-
+1. [`Extrude + + blender addon`](https://github.com/xmaxrayx/Blender3D_Extrude_Plus_Plus_addon) Extrude commands in Pia menue as addon for blenders
+</br>
+</br>
+----
 <picture>
   <source
     media="(prefers-color-scheme: dark)" 
@@ -81,9 +86,6 @@ C:\> _
 
 ````
 
-𐌌𐌙 𐌐𐌓ꝊᏵ𐌄𐌂𐌕, 
-
-1. [`Extrude + + blender addon`](https://github.com/xmaxrayx/Blender3D_Extrude_Plus_Plus_addon) Extrude commands in Pia menue as addon for blenders
 
 
 <img width="6969%" src="1.svg">
