@@ -14,7 +14,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)" 
-    srcset="https://wakatime.com/share/@xMaxrayx/ 93a3f757-df4c-4801-8764-7ed7b72a7014.svg"
+    srcset="https://wakatime.com/share/@xMaxrayx/93a3f757-df4c-4801-8764-7ed7b72a7014.svg"
   >
   
   <source
@@ -26,7 +26,7 @@
 </picture>
 
 
-</img>
+
 
 
 
