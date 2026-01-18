@@ -12,7 +12,44 @@
   src="https://wakatime.com/share/@xMaxrayx/b377e1ac-ba39-4964-a129-1830bc888b9e.svg"
   alt="xmaxrayx wakatime DIE status"
   width="600"
-/> -->
+/>
+
+
+
+
+<img
+  src="https://wakatime.com/share/@xMaxrayx/5a830baa-7a13-4edc-b7c0-98ada3404d1f.svg"
+  alt="xmaxrayx wakatime work time status"
+  height ="130"
+/>
+
+<img src= "https://wakatime.com/share/@xMaxrayx/d032a993-3e8f-467a-8d9b-367f1690ef97.png"></img>
+
+
+<img src="https://wakatime.com/share/@xMaxrayx/344aa1ac-8c34-45a8-9b6c-9e39df1e6f88.svg"></img>
+
+
+
+## Wakatime
+(Added 27/3/2024)
+
+ [<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xMaxrayx&theme=radical&layout=compact">](https://wakatime.com/@xMaxrayx) 
+
+
+<img
+  src="https://github.com/xmaxrayx/xmaxrayx/blob/main/images/stat.svg"
+  alt="xmaxrayx wakatime status"
+/>
+
+
+
+
+
+
+
+
+
+
 
 
 <picture>
@@ -29,6 +66,16 @@
   <img alt="Last Code status" src="https://wakatime.com/share/@xMaxrayx/df1a99f5-5c91-4e81-a0bd-e61a1ec84d63.svg">
 </picture>
 
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+ `Other links` -> https://beacons.ai/xmaxrayx/home
 
 ------------
 
@@ -79,9 +126,26 @@ C:\> _
 
 
 
-````
-
+```
 𐌌𐌙 𐌐𐌓ꝊᏵ𐌄𐌂𐌕, 
+```
+1. [`Extrude + + blender addon`](https://github.com/xmaxrayx/Blender3D_Extrude_Plus_Plus_addon) Extrude commands in Pia menue as addon for blenders
+
+
+
+
+------------
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
 
 1. [`Extrude + + blender addon`](https://github.com/xmaxrayx/Blender3D_Extrude_Plus_Plus_addon) Extrude commands in Pia menue as addon for blenders
 
