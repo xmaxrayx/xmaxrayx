@@ -1,3 +1,7 @@
+[![wakatime](https://wakatime.com/badge/user/eff25b65-9015-4b5a-9bd6-96279cc396ce.svg)](https://wakatime.com/@eff25b65-9015-4b5a-9bd6-96279cc396ce)
+
+<img src="https://wakatime.com/share/@xMaxrayx/2db3823e-253b-4061-97ac-49a6f1050313.svg" width="50%"> <img src="https://wakatime.com/share/@xMaxrayx/b377e1ac-ba39-4964-a129-1830bc888b9e.svg" width="47%">
+<!-- 
 <img
   src="https://wakatime.com/share/@xMaxrayx/2db3823e-253b-4061-97ac-49a6f1050313.svg"
   alt="xmaxrayx wakatime language status"
@@ -48,6 +52,19 @@
 
 
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://wakatime.com/share/@xMaxrayx/93a3f757-df4c-4801-8764-7ed7b72a7014.svg"
+  >
+  
+  <source
+    media="(prefers-color-scheme: light)"                 srcset="https://wakatime.com/share/@xMaxrayx/df1a99f5-5c91-4e81-a0bd-e61a1ec84d63.svg">
+    
+  >
+  
+  <img alt="Last Code status" src="https://wakatime.com/share/@xMaxrayx/df1a99f5-5c91-4e81-a0bd-e61a1ec84d63.svg">
+</picture>
 
 
 
@@ -106,10 +123,6 @@ C:\>shutdown
 
 C:\> _
 
-```
-------------
-
-
 
 
 
@@ -134,12 +147,11 @@ C:\> _
 
 
 
+1. [`Extrude + + blender addon`](https://github.com/xmaxrayx/Blender3D_Extrude_Plus_Plus_addon) Extrude commands in Pia menue as addon for blenders
 
 
+<img width="6969%" src="1.svg">
 
-------------
-You have reached the edn!!! ＼（＠￣∇￣＠）／
 
- ヽ(*≧ω≦)ﾉ --------->❤️<---------- ヽ(;^o^ヽ)
+<img src="https://cdn.svgator.com/images/2023/03/animated-green-astronaut-helmet.svg"> 
 
-@xMaxrayx  Via https://beacons.ai/xmaxrayx/
