@@ -99,18 +99,6 @@ C:\>shutdown
 
 C:\> _
 
-```
-------------
-
-
-
-#### 🧰 Languages and Tools:
-
-
-`Bash scripts` `Powershell scripts` `AHK` `C#` , ~~Visual basic~~
-
-------------
-
 
 
 
@@ -119,42 +107,3 @@ C:\> _
 ```
 1. [`Extrude + + blender addon`](https://github.com/xmaxrayx/Blender3D_Extrude_Plus_Plus_addon) Extrude commands in Pia menue as addon for blenders
 
-------------
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-## Github
-
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmaxrayx&show_icons=true&theme=radical)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmaxrayx&layout=donut-vertical&langs_count=20&theme=radical  )](https://github.com/anuraghazra/github-readme-stats)
-
-## Other
-
-<br>
-
- [![Max codium](https://codeium.com/profile/xmaxrayx/card.png)](https://codeium.com/profile/xmaxrayx)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmaxrayx&theme=tokyonight)
- ...........  <img src="https://github-readme-stats.vercel.app/api?username=xmaxrayx&show_icons=true&theme=gotham" alt="xmaxrayx" />
-
-
-------------
-You have reached the edn!!! ＼（＠￣∇￣＠）／
-
- ヽ(*≧ω≦)ﾉ --------->❤️<---------- ヽ(;^o^ヽ)
-
-@xMaxrayx  Via https://beacons.ai/xmaxrayx/
