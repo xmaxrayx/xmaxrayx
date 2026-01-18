@@ -1,6 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/eff25b65-9015-4b5a-9bd6-96279cc396ce.svg)](https://wakatime.com/@eff25b65-9015-4b5a-9bd6-96279cc396ce)
 
-
+<img src="https://wakatime.com/share/@xMaxrayx/2db3823e-253b-4061-97ac-49a6f1050313.svg" width="50%"> <img src="https://wakatime.com/share/@xMaxrayx/b377e1ac-ba39-4964-a129-1830bc888b9e.svg" width="47%">
+<!-- 
 <img
   src="https://wakatime.com/share/@xMaxrayx/2db3823e-253b-4061-97ac-49a6f1050313.svg"
   alt="xmaxrayx wakatime language status"
@@ -11,7 +12,7 @@
   src="https://wakatime.com/share/@xMaxrayx/b377e1ac-ba39-4964-a129-1830bc888b9e.svg"
   alt="xmaxrayx wakatime DIE status"
   width="600"
-/>
+/> -->
 
 
 <picture>
@@ -86,3 +87,7 @@ C:\> _
 
 
 <img width="6969%" src="1.svg">
+
+
+<img src="https://cdn.svgator.com/images/2023/03/animated-green-astronaut-helmet.svg"> 
+
