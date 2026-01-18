@@ -11,44 +11,22 @@
 />
 
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://wakatime.com/share/@xMaxrayx/ 93a3f757-df4c-4801-8764-7ed7b72a7014.svg"
+  >
+  
+  <source
+    media="(prefers-color-scheme: light)"                 srcset="https://wakatime.com/share/@xMaxrayx/df1a99f5-5c91-4e81-a0bd-e61a1ec84d63.svg">
+    
+  >
+  
+  <img alt="Last Code status" src="https://wakatime.com/share/@xMaxrayx/df1a99f5-5c91-4e81-a0bd-e61a1ec84d63.svg">
+</picture>
 
 
-<img
-  src="https://wakatime.com/share/@xMaxrayx/5a830baa-7a13-4edc-b7c0-98ada3404d1f.svg"
-  alt="xmaxrayx wakatime work time status"
-  height ="130"
-/>
-
-
-
-
-
-
-## Wakatime
-(Added 27/3/2024)
-
- [<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@xMaxrayx&theme=radical&layout=compact">](https://wakatime.com/@xMaxrayx) 
-
-
-
-<!--START_SECTION:waka-->
-
-```txt
-XAML         9 hrs 57 mins   ██████████████████░░░░░░░   72.63 %
-Markdown     1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
-Binary       1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-AutoHotkey   47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-C#           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-```
-
-<!--END_SECTION:waka-->
-
-
-
-<img
-  src="https://github.com/xmaxrayx/xmaxrayx/blob/main/images/stat.svg"
-  alt="xmaxrayx wakatime status"
-/>
+</img>
 
 
 
@@ -64,29 +42,16 @@ C#           9 mins          ▒░░░░░░░░░░░░░░░░
 
 
 
-<br>
-
-> **Note**
->  @unbreakable-ray
->  
->  I moved here 
->  
->   https://github.com/Unbreakable-ray
->   
->   
->   
->   
->---------------------------------------------------------------------------------------------
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
- HELLO :3 DON'T WORRY MY FILLES ARE 100% SAFE AND WONT DESTROY YOUR PC!!! :3
 
 
- `Other links` -> https://beacons.ai/xmaxrayx/home
+
+
+
+
+
+
+
+
 
 ------------
 
