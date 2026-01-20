@@ -1,4 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/eff25b65-9015-4b5a-9bd6-96279cc396ce.svg)](https://wakatime.com/@eff25b65-9015-4b5a-9bd6-96279cc396ce)
+</br>
 I don't use Github
 
 <!-- <img src="https://wakatime.com/share/@xMaxrayx/2db3823e-253b-4061-97ac-49a6f1050313.svg" width="50%"> <img src="https://wakatime.com/share/@xMaxrayx/b377e1ac-ba39-4964-a129-1830bc888b9e.svg" width="47%"> -->
@@ -21,8 +22,27 @@ I don't use Github
 - [`Extrude + + blender addon`](https://github.com/xmaxrayx/Blender3D_Extrude_Plus_Plus_addon) Extrude commands in Pia menue as addon for blenders
 </br>
 </br>
-----
-<picture>
+
+<a href="https://wakatime.com/@xMaxrayx">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://wakatime.com/share/@xMaxrayx/93a3f757-df4c-4801-8764-7ed7b72a7014.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://wakatime.com/share/@xMaxrayx/df1a99f5-5c91-4e81-a0bd-e61a1ec84d63.svg"
+    >
+    <img
+      alt="Last Code status"
+      src="https://wakatime.com/share/@xMaxrayx/df1a99f5-5c91-4e81-a0bd-e61a1ec84d63.svg"
+    >
+  </picture>
+</a>
+
+
+
+<!-- <picture>
   <source
     media="(prefers-color-scheme: dark)" 
     srcset="https://wakatime.com/share/@xMaxrayx/93a3f757-df4c-4801-8764-7ed7b72a7014.svg"
@@ -34,7 +54,8 @@ I don't use Github
   >
   
   <img alt="Last Code status" src="https://wakatime.com/share/@xMaxrayx/df1a99f5-5c91-4e81-a0bd-e61a1ec84d63.svg">
-</picture>
+  
+</picture> -->
 
 
 ------------
