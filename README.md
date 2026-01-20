@@ -87,9 +87,7 @@ C:\> _
 ````
 
 
-
+<!--
 <img width="6969%" src="1.svg">
-
-
-<img src="https://cdn.svgator.com/images/2023/03/animated-green-astronaut-helmet.svg"> 
+-->
 
